@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.logo-prin{
+    width: 2.4rem;
+}
+
+.d-block{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
