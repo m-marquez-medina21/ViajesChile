@@ -1,15 +1,19 @@
 body{
     background-color: black;
-}
-
-nav{
-    background-color: #25a0ab;
+    font-family: 'Raleway', sans-serif;
 }
 
 footer{
     background-color: #25a0ab;
     text-align: center;
 }
+
+.fab{
+    text-decoration: none;
+    color: white;
+    
+}
+
 .text-h2{
     font-size: 1.8rem;
 }
