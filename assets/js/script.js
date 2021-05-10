@@ -13,4 +13,12 @@ $(function(){
             });
         }
     });
+
+    $(window).scroll(function(){
+        if($("#menu").offset().top > 400){
+            $("#menu").addClass("class-nav");
+        } else {
+            $("#menu").removeClass("class-nav");
+        }
+    });
 });

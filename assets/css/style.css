@@ -41,3 +41,8 @@ hr{
 .text-footer{
     text-transform: uppercase;
 }
+
+.class-nav{
+    background-color: #25a0ab;
+    transition: all 1s ease;
+}
